@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/goutam-chanda-portfolio/static/css/main.05b8327d.css",
+    "main.js": "/goutam-chanda-portfolio/static/js/main.49c0de6e.js",
+    "static/media/introImg.png": "/goutam-chanda-portfolio/static/media/introImg.a790abdb93b23191d3b0.png",
+    "static/media/client1.png": "/goutam-chanda-portfolio/static/media/client1.05a913096e8de5c5a56d.png",
+    "static/media/instagram.png": "/goutam-chanda-portfolio/static/media/instagram.e719d8b29f452a16302d.png",
+    "static/media/api.png": "/goutam-chanda-portfolio/static/media/api.aceeff496910c356de58.png",
+    "static/media/client2.png": "/goutam-chanda-portfolio/static/media/client2.b65100105c4769c2a857.png",
+    "static/media/twitter.png": "/goutam-chanda-portfolio/static/media/twitter.7e40f617aaa8eca864bb.png",
+    "static/media/logonav.png": "/goutam-chanda-portfolio/static/media/logonav.43fb69f2ddc46b258b73.png",
+    "static/media/linkedin.png": "/goutam-chanda-portfolio/static/media/linkedin.17e919bb623c20be8b80.png",
+    "static/media/client4.png": "/goutam-chanda-portfolio/static/media/client4.3633afbf9c98e21550cc.png",
+    "static/media/facebook.png": "/goutam-chanda-portfolio/static/media/facebook.49e67d43221b6bb1aa86.png",
+    "static/media/db.png": "/goutam-chanda-portfolio/static/media/db.262a9f2d8b23f8ffa545.png",
+    "index.html": "/goutam-chanda-portfolio/index.html",
+    "main.05b8327d.css.map": "/goutam-chanda-portfolio/static/css/main.05b8327d.css.map",
+    "main.49c0de6e.js.map": "/goutam-chanda-portfolio/static/js/main.49c0de6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05b8327d.css",
+    "static/js/main.49c0de6e.js"
+  ]
+}
