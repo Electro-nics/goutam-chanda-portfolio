@@ -62,14 +62,14 @@ const Contact = () => {
             </div>
         </div>
         <div id="contact">
-            <h1 className="contactPageTitle">Contect Us</h1>
+            <h1 className="contactPageTitle">Contact Us</h1>
             <span className="contactDec">
             Have questions or need assistance? We're here to help. Reach out to discuss your project, ask about our services, or get personalized support. Fill out the form below, and we’ll get back to you as soon as possible!
             </span>
             <form className='contactForm' ref={form} onSubmit={sendEmail}>
-                <input type="text" className='name' placeholder='Your Name' name='from_name'/>
-                <input type="email" className='email' placeholder='Enter Your Email' name='from_email' />
-                <textarea name="message" rows={5} className='msg' placeholder='Your Message'></textarea>
+                <input type="text" className='name' placeholder='Your Name' name='from_name' required/>
+                <input type="email" className='email' placeholder='Enter Your Email' name='from_email' required />
+                <textarea name="message" rows={5} className='msg' placeholder='Your Message' required></textarea>
                 <button type="submit" className='submitbtn' value='Send'>Submit</button>
 
                 <div className="links">
