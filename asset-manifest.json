@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/goutam-chanda-portfolio/static/css/main.05b8327d.css",
-    "main.js": "/goutam-chanda-portfolio/static/js/main.49c0de6e.js",
+    "main.js": "/goutam-chanda-portfolio/static/js/main.b09547bd.js",
     "static/media/introImg.png": "/goutam-chanda-portfolio/static/media/introImg.a790abdb93b23191d3b0.png",
     "static/media/client1.png": "/goutam-chanda-portfolio/static/media/client1.05a913096e8de5c5a56d.png",
     "static/media/instagram.png": "/goutam-chanda-portfolio/static/media/instagram.e719d8b29f452a16302d.png",
@@ -15,10 +15,10 @@
     "static/media/db.png": "/goutam-chanda-portfolio/static/media/db.262a9f2d8b23f8ffa545.png",
     "index.html": "/goutam-chanda-portfolio/index.html",
     "main.05b8327d.css.map": "/goutam-chanda-portfolio/static/css/main.05b8327d.css.map",
-    "main.49c0de6e.js.map": "/goutam-chanda-portfolio/static/js/main.49c0de6e.js.map"
+    "main.b09547bd.js.map": "/goutam-chanda-portfolio/static/js/main.b09547bd.js.map"
   },
   "entrypoints": [
     "static/css/main.05b8327d.css",
-    "static/js/main.49c0de6e.js"
+    "static/js/main.b09547bd.js"
   ]
 }
